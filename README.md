@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sadeeq Afridi 👋</h1>
+<h1 align="center">Hi there, I'm Siddique Afridi 👋</h1>
 
 <p align="center">
   👨‍💻 Front-End Developer | 🎨 UI Enthusiast | 🌱 Lifelong Learner
