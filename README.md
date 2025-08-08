@@ -1,7 +1,7 @@
 <h1 align="center">Siddique Afridi</h1>
 
 <p align="center">
-   **Front-End Developer** | 🎨 UI Enthusiast | 🌱 Lifelong Learner
+   Front-End Developer | 🎨 UI Enthusiast | 🌱 Lifelong Learner
 </p>
 
 ---
